@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-
+|key|value|
 |---|-----|
 |Name|玉城祐輔 (Yusuke Tamashiro)|
 |Twitter|[@tamashiro5000](https://twitter.com/tamashiro5000)|
